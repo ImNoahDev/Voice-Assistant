@@ -1,6 +1,6 @@
 # DIY voice assistant
 
-Total time spent: 8.5hr
+Total time spent: 13.5hr
 
 I have set out to build a diy voice assistant with a 3d printed case and a high quality speaker (for its size).
 
@@ -97,5 +97,8 @@ Today I begun to 3D model the casing for my design. I first reasearched the spec
 
 ![image.png](/CAD/Images/image.png)![image.png](/CAD/Images/image-1.png)
 
+## Saturday 17th May: 3D modeling (5 hr)
 
+I spent a second set of 4 hours adding mounting holes for the electronics. I started by researching mounting dimensions for each part then adding a USB-C port to the bass for power input. This allows the unit to be powered with a suitable USB-C PD brick. I then found a specification for my amplifier board and added suitable mounting holes. Next I added mounting holes for the Rasperry Pi. I chose to side mount the raspberry pi to keep the base diameter as small as reasonably possible. By side mounting the electronics, the unit also has better heat dissipation. Next I added a ring for the LED strip. This ring is 14mm trall to allow the led strip to fit and has a slot on the back side allowing wires to be pulled through. This LED strip will have a diffuser placed over it to allow for better light diffusion. The internal lip that has been created is smooth to allow for easier printing. 
 
+ ![image.png](/CAD/Images/image-2.png)![image.png](/CAD/Images/image-3.png)![image.png](/CAD/Images/image-4.png)![image.png](/CAD/Images/image-5.png)

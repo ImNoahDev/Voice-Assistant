@@ -1,6 +1,6 @@
 # DIY voice assistant
 
-Total time spent: 5.5hr
+Total time spent: 8.5hr
 
 I have set out to build a diy voice assistant with a 3d printed case and a high quality speaker (for its size).
 
@@ -57,8 +57,6 @@ Today I have researched different speaker drivers to choose one suitable for my 
 
 I have chosen the Dayton driver from this list as the driver I will be using. It has an acceptable frequency response, good wattage, good impedence, easy mounting and comes second to the LSX driver on "cool factor".
 
-
-
 ## Friday 16th May: Choosing an amplifier board (1 hr)
 
 Today I have chosen an amplifier board suitable for my voice assistant. Outlined below are some options I looked at:
@@ -83,8 +81,6 @@ Today I have chosen an amplifier board suitable for my voice assistant. Outlined
 
 I have not included other amplifiers in my list as many were not good enough to consider. The Unnamed blue board amplifier seems to be the best choice so i will continue designing with it in mind
 
-
-
 ## Friday 16th May: Other components (2.5 hr)
 
 Today I ran some tests to determine which single board computer would be most suitable for my project. 
@@ -94,3 +90,12 @@ I ran my test on a PI4, Pi5 and Pi0. I installed raspian and connected a USB mic
 I am also going to use an LED strip to show the status of the device. The LED strip will be placed at the top in a ring around the devices circumference. I have chosen a WS2812 LED strip due to its 5v input level. 
 
 I have also chosen other various electronics and made an initial BOM.
+
+## Saturday 17th May: 3D modeling (3 hr)
+
+Today I begun to 3D model the casing for my design. I first reasearched the specifications and mounting dimension for the speaker. The speaker benifits from an open back design with the long casing acting as a bass reflex tube to give a better bass extension. I then added a series of holes to the bass. There are 45 rows fo 60 holes (300 total). These primarily allow sound to enter the casing to allow the microphones to pick up an input from the surroundings. They also allow the sound from the speaker to travel out the bottom of the speaker to aid the bass reflex design. They also allow the casing to stay cool by allowing air flow to the Raspberry Pi fan. From beginning to research schematics and optimal designs for speaker mounting to concluding on this shape, design and dimensions, I spent 3 hours.
+
+![image.png](/CAD/Images/image.png)![image.png](/CAD/Images/image-1.png)
+
+
+

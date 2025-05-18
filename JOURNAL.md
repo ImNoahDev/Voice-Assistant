@@ -1,6 +1,6 @@
 # DIY voice assistant
 
-Total time spent: 16.5hr
+Total time spent: 17.5hr
 
 I have set out to build a diy voice assistant with a 3d printed case and a high quality speaker (for its size).
 
@@ -112,3 +112,6 @@ I then removed the USB-C port from my model and replaced it with a barrel jack t
 The barrel jack input powers the amplifier and the buck converter. The buck converter then powers the LED strip and the Raspberry Pi. GPIO pin 12 is used for the led strip as it is exposed by the audio HAT. The audio output from the hat will be used as an input on the amplifier board.
 
 ![image.png](/CAD/Images/image-6.png)
+
+## Sunday 18th May: ReadMe (1 hr)
+Wrote a readme, see ![README.md](/README.md)

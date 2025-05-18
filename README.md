@@ -4,7 +4,7 @@ Disclaimer: I have not yet finished building this, therefore there may be slight
 
 I set out to build a voice assistant that had a small footprint (allowing it to fit easily in any space), A high quality speaker (for voice clarity and music) and a high power processor (to allow for on device speech processing allowing audio to stay on device). My design consists of a cylinder like shape with a visible speaker at the top. There is a status LED strip in a ring at the bottom to show the devices status and give a visual indicator of the device being activated. There are a ring of holes near the base to allow for sound to travel into the microphones. The holes at the bottom also make the design act as a transmission line speaker giving better bass.
 
-![image.png](/CAD/Images/image-7.png)
+![image.png](/CAD/Images/image-7.png) ![image-6.png](/CAD/Images/image-6.png)
 
 ## How to Build
 
